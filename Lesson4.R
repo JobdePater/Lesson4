@@ -151,4 +151,6 @@ traceback()
 ## 2: bar(2) at #1
 ## 1: foo(2)
 # Ah, bar() is the problem
+Zal si fsdfa
+
   
